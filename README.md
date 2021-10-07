@@ -3,6 +3,8 @@
 all sorted items:
 http://localhost:3000/
 
+search by id:
+http://localhost:3000/:id
 
-
-http://localhost:3000/api/input?input=:input
+query the menu by category:
+http://localhost:3000/
